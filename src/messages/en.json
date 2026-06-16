@@ -16,11 +16,16 @@
     "rating": "4.6",
     "reviewCount": "8,736",
     "hours": "Tourist Attraction",
-    "openMaps": "View Location"
+    "openMaps": "View Location",
+    "badges": [
+      "📍 UNESCO World Heritage Area",
+      "🌊 Best Seaview Spot",
+      "🎟️ Free Attraction"
+    ]
   },
   "intro": {
     "title": "Explore Plaza de Francia",
-    "description": "Plaza de Francia is located in Casco Antiguo, Panama City. It is a historical tourist attraction with rich cultural heritage. The plaza commemorates the French contribution to the Panama Canal construction, making it an important place to experience Panama's history and culture.",
+    "description": "Located at the southernmost tip of Casco Antiguo in Panama City, Plaza de Francia is a landmark that perfectly blends heavy history with extreme beauty. The obelisk at the center of the plaza is topped with a Gallic rooster, surrounded by marble busts and monument inscriptions, solemnly commemorating the tens of thousands of French engineers and laborers who sacrificed their lives to build the Panama Canal at the end of the 19th century, as well as the scientists who made outstanding contributions to conquering yellow fever.\n\nToday, this is the most popular leisure destination in the old town. The outer edge of the plaza is attached to the ancient Spanish seawall fortifications (Las Bóvedas). Strolling along the tree-lined waterfront promenade, you can not only admire the exquisite handicrafts sold by local indigenous people, but also overlook the Amador Causeway and the incredibly stunning modern skyscraper skyline of Panama City across the azure Bay of Panama. Here, centuries of historical vicissitudes and the prosperity of a modern metropolis are separated by just a strip of water.",
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
@@ -33,46 +38,46 @@
     "alsoKnownAs": {
       "title": "Highlights",
       "items": [
-        "Rich Historical Culture: The plaza commemorates the French contribution to the Panama Canal construction, with significant historical meaning.",
-        "Prime Location: Located in the heart of Casco Antiguo with convenient transportation, it is a must-visit attraction for tourists.",
-        "Beautiful Scenery: The plaza is surrounded by colonial architecture, making it an ideal place for photography.",
-        "Close to Tourist Attractions: Just steps away from other historical attractions and restaurants in Casco Antiguo."
+        "Waterfront Promenade and Domes (Las Bóvedas): Plaza de Francia is not just a flat plaza. Its outer edge is an ancient Spanish defensive seawall, with the famous 'domes' (former prisons and warehouses) below. Visitors can stroll along the seawall promenade, which is one of the biggest selling points of the attraction.",
+        "Excellent City Skyline View: Standing on the seawall of Plaza de Francia, you can enjoy a dead-angle-free view of Panama City's modern skyscraper skyline, the Amador Causeway, and the Bridge of the Americas across the Bay of Panama.",
+        "Monument Details: The center of the plaza is not just a 'monument'. The top is crowned with a Gallic Rooster representing France, surrounded by sculptures commemorating the workers and doctors who sacrificed their lives to yellow fever and malaria (such as Cuban doctor Carlos Finlay).",
+        "Prime Location: Located in the heart of Casco Antiguo, surrounded by exquisite colonial architecture."
       ]
     }
   },
   "route": {
     "title": "Tour Route",
-    "overview": "The ideal route to explore Central Park Alajuela:",
+    "overview": "The ideal route to explore Plaza de Francia:",
     "steps": [
       "Enter from the main entrance and enjoy the central open space and green trees.",
       "Stroll around the park and feel the daily life and cultural atmosphere of local residents.",
-      "Visit nearby historical buildings like Alajuela Cathedral.",
+      "Visit nearby historical buildings like Catedral Metropolitana / Iglesia San José.",
       "Rest at nearby cafes or restaurants and taste local cuisine."
     ],
     "supplementsTitle": "Additional Tour Tips",
     "supplements": [
       "It's recommended to go during the day when the light is best, suitable for taking photos and enjoying the park scenery.",
-      "You can combine your visit with Alajuela's historical attractions, such as the Cathedral, museums, etc.",
+      "You can combine your visit with Panama City's historical attractions, such as the Cathedral, museums, etc.",
       "Please respect local culture and keep the park environment clean."
     ]
   },
   "knowledge": {
-    "title": "Discover the Charm of Central Park Alajuela",
+    "title": "Discover the Charm of Plaza de Francia",
     "sections": [
       {
         "id": "history",
         "title": "Historical Significance",
-        "content": "Central Park Alajuela is an important urban space and social landmark in Alajuela, and has long been a favorite leisure place for local residents and tourists."
+        "content": "Plaza de Francia is an important urban space and social landmark in Casco Antiguo, and has long been a favorite leisure place for local residents and tourists."
       },
       {
         "id": "culture",
         "title": "Cultural Landscape",
-        "content": "It features beautiful green environments and rich cultural activities, making it an excellent place to experience Alajuela's urban culture and lifestyle."
+        "content": "It features beautiful green environments and rich cultural activities, making it an excellent place to experience Panama City's urban culture and lifestyle."
       },
       {
         "id": "experience",
         "title": "Visiting Experience",
-        "content": "Strolling through Central Park Alajuela, feeling Costa Rica's relaxed lifestyle and beautiful urban scenery, is an unforgettable cultural experience."
+        "content": "Strolling through Plaza de Francia, feeling Panama's relaxed lifestyle and beautiful urban scenery, is an unforgettable cultural experience."
       }
     ]
   },
@@ -90,9 +95,7 @@
     "address": "Address",
     "addressValue": "C. 2a Oeste 85-81, Panamá, Provincia de Panamá, Panama",
     "plusCode": "Plus Code",
-    "plusCodeValue": "WFX9+W5",
-    "phone": "Official Phone",
-    "phoneValue": "N/A"
+    "plusCodeValue": "WFX9+W5"
   },
   "hours": {
     "title": "Opening Hours",
@@ -117,9 +120,9 @@
     "students": "Transportation Tips",
     "studentsPrice": "Taxis or public transportation recommended",
     "card": "Visiting Tips",
-    "cardPrice": "The plaza is free and open to the public. Recommended to combine with nearby attractions in Casco Antiguo.",
+    "cardPrice": "The park is free and open to the public. It is recommended to combine your visit with the Metropolitan Cathedral of Panama City (Catedral Metropolitana) or San José Church (Iglesia San José - famous Golden Altar) in the old town.",
     "officialNotice": "For the latest visiting information, please refer to the",
-    "officialNoticeLinkLabel": "Panama Tourism Authority Official Website",
+    "officialNoticeLinkLabel": "Visit Panama (Panama Official Tourism Authority) Website",
     "officialNoticeLink": "https://www.tourismpanama.com/"
   },
   "transport": {
@@ -129,7 +132,7 @@
     "selfDrive": "Driving",
     "selfDriveDesc": "Located in Casco Antiguo, Panama City. Simply input 'Plaza de Francia' in navigation. Urban parking lots are available nearby.",
     "bus": "Public Transport",
-    "busDesc": "Take Panama City metro or buses to the old town (Casco Antiguo), then walk to the plaza.",
+    "busDesc": "The streets of Casco Antiguo in Panama City are narrow and parking is extremely difficult. It is highly recommended that visitors use ride-hailing apps to reach the edge of Casco Viejo and then walk in, which is the most authentic and safe advice. You can also take the Panama City metro to the surrounding area.",
     "intercity": "Walking Tour",
     "intercityDesc": "The plaza is located in the heart of Casco Antiguo, walkable from nearby attractions.",
     "cycling": "Other Means",
@@ -175,13 +178,13 @@
         "name": "Juan Carlos",
         "date": "1 month ago",
         "rating": 5,
-        "text": "The heart of Alajuela. This park is beautiful and is an ideal place to relax and enjoy the local atmosphere."
+        "text": "The heart of Casco Antiguo. This park is beautiful and is an ideal place to relax and enjoy the local atmosphere."
       },
       {
         "name": "María José",
         "date": "2 weeks ago",
         "rating": 5,
-        "text": "Beautiful park with a pleasant environment. Close to the Cathedral, it's a must-visit place when touring Alajuela."
+        "text": "Beautiful park with a pleasant environment. Close to the Cathedral, it's a must-visit place when touring Casco Antiguo."
       },
       {
         "name": "Roberto M.",
@@ -193,19 +196,19 @@
         "name": "Ana Lucía",
         "date": "Over 6 months ago",
         "rating": 5,
-        "text": "An iconic place in Alajuela. The park is well-maintained and is an important part of local culture."
+        "text": "An iconic place in Casco Antiguo. The park is well-maintained and is an important part of local culture."
       },
       {
         "name": "Carlos A.",
         "date": "1 year ago",
         "rating": 4,
-        "text": "Great place for leisure. You can rest here, watch people come and go, and feel the pace of life in Alajuela."
+        "text": "Great place for leisure. You can rest here, watch people come and go, and feel the pace of life in Casco Antiguo."
       },
       {
         "name": "Sofía M.",
         "date": "Over 6 months ago",
         "rating": 5,
-        "text": "Beautiful park, full of Costa Rican charm. An important stop on your Alajuela trip, definitely worth experiencing."
+        "text": "Beautiful park, full of Panamanian charm. An important stop on your Casco Antiguo trip, definitely worth experiencing."
       },
       {
         "name": "Miguel R.",
@@ -217,7 +220,7 @@
         "name": "Laura V.",
         "date": "2 months ago",
         "rating": 5,
-        "text": "An urban gem of Alajuela. Central Park is an important place to understand Alajuela's culture, definitely worth experiencing."
+        "text": "An urban gem of Casco Antiguo. Central Park is an important place to understand Panama City's culture, definitely worth experiencing."
       }
     ]
   },
@@ -351,32 +354,32 @@
     "rejectAll": "Reject All"
   },
   "officialManagement": {
-    "title": "About Parque Natural Cerro Verde",
-    "text": "Parque Natural Cerro Verde is a famous natural attraction in the Santa Ana Department, boasting spectacular mountain views and rich natural and cultural value. It is directly managed and maintained by the Salvadoran Institute of Tourism (ISTU)."
+    "title": "About Plaza de Francia",
+    "text": "Plaza de Francia is a famous natural attraction in the Casco Antiguo, boasting spectacular mountain views and rich natural and cultural value. It is directly managed and maintained by the Panama Ministry of Culture (MiCultura)."
   },
   "historyTimeline": {
     "title": "Historical Timeline",
     "items": [
       {
-        "year": "Early Period",
-        "title": "Early Period: Urban Green Space",
-        "plaque": "Urban Park (Green Space)",
-        "description": "Central Park Alajuela has long been regarded as an important green space in the heart of Alajuela city and an important place for local residents' leisure and entertainment."
+        "year": "1673",
+        "title": "1673: Spanish Fortifications",
+        "plaque": "Spanish Seawall (Las Bóvedas)",
+        "description": "The Spaniards built fortifications here (the predecessor of Las Bóvedas), which was an important defense line for the old town against pirates and foreign invasions."
       },
       {
-        "year": "20th Century",
-        "title": "20th Century: Urban Development",
-        "plaque": "Urban Development (Park Construction)",
-        "description": "With the urbanization of Alajuela, Central Park gradually became an important public space in the city center, with landmark buildings like the Cathedral built nearby."
+        "year": "1880s",
+        "title": "1880s: French Canal Project",
+        "plaque": "French Canal Attempt",
+        "description": "The French launched the Panama Canal project. Although it was not ultimately completed, they left valuable experience and lessons for later canal engineering."
       },
       {
-        "year": "21st Century",
-        "title": "21st Century: Cultural Tourism Destination",
-        "plaque": "Cultural Landmark (Tourism Development)",
-        "description": "In the 21st century, with its superior geographical location and beautiful environment, it has attracted a large number of tourists and become an important calling card for Alajuela's cultural tourism."
+        "year": "1920s",
+        "title": "1920s: Plaza Inauguration",
+        "plaque": "Plaza de Francia Inauguration",
+        "description": "The plaza was officially inaugurated to commemorate the nearly 20,000 French and Caribbean laborers who sacrificed their lives to tropical diseases, as well as the engineers and doctors who contributed to the construction of the canal."
       }
     ],
     "guideTitle": "Visitor Guide Tip",
-    "guideContent": "When visiting, you can start by entering from the main entrance and admiring the leisure spaces shaded by green trees; then visit nearby historical buildings like Alajuela Cathedral; if you have enough time, you can walk to nearby historical museums and cultural attractions. Finally, enjoy food in nearby cafes or restaurants and feel the relaxed pace of life in Alajuela."
+    "guideContent": "When visiting, you can start by entering from the main entrance and admiring the leisure spaces shaded by green trees; then visit nearby historical buildings like Catedral Metropolitana / Iglesia San José; if you have enough time, you can walk to nearby historical museums and cultural attractions. Finally, enjoy food in nearby cafes or restaurants and feel the relaxed pace of life in Casco Antiguo."
   }
 }

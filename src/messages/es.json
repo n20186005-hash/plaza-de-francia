@@ -16,11 +16,16 @@
     "rating": "4.6",
     "reviewCount": "8,736",
     "hours": "Atracción Turística",
-    "openMaps": "Ver Ubicación"
+    "openMaps": "Ver Ubicación",
+    "badges": [
+      "📍 Área Patrimonio de la UNESCO",
+      "🌊 Mejor Vista al Mar",
+      "🎟️ Atracción Gratuita"
+    ]
   },
   "intro": {
     "title": "Explora la Plaza de Francia",
-    "description": "La Plaza de Francia se encuentra en el Casco Antiguo de Ciudad de Panamá. Es una atracción turística histórica con rica herencia cultural. La plaza conmemora la contribución francesa a la construcción del Canal de Panamá, lo que la convierte en un lugar importante para experimentar la historia y cultura de Panamá.",
+    "description": "Ubicada en el extremo sur del Casco Antiguo en la Ciudad de Panamá, la Plaza de Francia es un hito que combina perfectamente una historia profunda con una belleza extrema. El obelisco en el centro de la plaza está coronado con un gallo galo, rodeado de bustos de mármol e inscripciones monumentales, conmemorando solemnemente a las decenas de miles de ingenieros y trabajadores franceses que sacrificaron sus vidas para construir el Canal de Panamá a fines del siglo XIX, así como a los científicos que hicieron contribuciones sobresalientes para conquistar la fiebre amarilla.\n\nHoy en día, este es el destino de ocio más popular del casco antiguo. El borde exterior de la plaza está unido a las antiguas fortificaciones del malecón español (Las Bóvedas). Paseando por el paseo marítimo bordeado de árboles, no solo puede admirar las exquisitas artesanías vendidas por los indígenas locales, sino también contemplar la Calzada de Amador y el increíblemente impresionante horizonte de rascacielos modernos de la Ciudad de Panamá a través de la azul Bahía de Panamá. Aquí, siglos de vicisitudes históricas y la prosperidad de una metrópolis moderna están separados por solo una franja de agua.",
     "visitGuide": {
       "title": "Consejos de Visita",
       "items": [
@@ -33,46 +38,46 @@
     "alsoKnownAs": {
       "title": "Destacados",
       "items": [
-        "Rica Cultura Histórica: La plaza conmemora la contribución francesa al Canal de Panamá, con importante significado histórico.",
-        "Ubicación Privilegiada: Ubicada en el corazón del Casco Antiguo, es un lugar imprescindible para los turistas.",
-        "Hermosos Paisajes: La plaza está rodeada de arquitectura colonial, ideal para la fotografía.",
-        "Cerca de Atracciones Turísticas: A solo unos pasos de otras atracciones históricas y restaurantes del Casco Antiguo."
+        "Paseo Marítimo y Bóvedas (Las Bóvedas): La Plaza de Francia no es solo una plaza plana. Su borde exterior es un antiguo malecón defensivo español, con las famosas 'bóvedas' (antiguas cárceles y almacenes) debajo. Los visitantes pueden pasear por el malecón, que es uno de los mayores atractivos del lugar.",
+        "Excelente Vista del Horizonte de la Ciudad: De pie en el malecón de la Plaza de Francia, puede disfrutar de una vista sin ángulos muertos del moderno horizonte de rascacielos de la Ciudad de Panamá, la Calzada de Amador y el Puente de las Américas a través de la Bahía de Panamá.",
+        "Detalles del Monumento: El centro de la plaza no es solo un 'monumento'. La parte superior está coronada con un Gallo Galo que representa a Francia, rodeado de esculturas que conmemoran a los trabajadores y médicos que sacrificaron sus vidas por la fiebre amarilla y la malaria (como el médico cubano Carlos Finlay).",
+        "Ubicación Privilegiada: Ubicada en el corazón del Casco Antiguo, rodeada de exquisita arquitectura colonial."
       ]
     }
   },
   "route": {
     "title": "Ruta de Visita",
-    "overview": "La ruta ideal para explorar el Parque Central de Alajuela:",
+    "overview": "La ruta ideal para explorar el Plaza de Francia:",
     "steps": [
       "Ingresa por la entrada principal y disfruta del espacio abierto central y los árboles verdes.",
       "Pasea por los alrededores del parque y siente la vida diaria y el ambiente cultural de los residentes locales.",
-      "Visita edificios históricos cercanos como la Catedral de Alajuela.",
+      "Visita edificios históricos cercanos como la Catedral Metropolitana / Iglesia San José.",
       "Descansa en cafeterías o restaurantes cercanos y prueba la cocina local."
     ],
     "supplementsTitle": "Consejos Adicionales de Visita",
     "supplements": [
       "Se recomienda ir durante el día cuando la luz es mejor, adecuada para tomar fotos y disfrutar del paisaje del parque.",
-      "Puedes combinar tu visita con atracciones históricas de Alajuela, como la catedral, museos, etc.",
+      "Puedes combinar tu visita con atracciones históricas de Casco Antiguo, como la catedral, museos, etc.",
       "Por favor, respeta la cultura local y mantén el ambiente del parque limpio."
     ]
   },
   "knowledge": {
-    "title": "Descubre el Encanto del Parque Central de Alajuela",
+    "title": "Descubre el Encanto del Plaza de Francia",
     "sections": [
       {
         "id": "history",
         "title": "Importancia Histórica",
-        "content": "El Parque Natural Cerro Verde es un importante hito de protección natural y ecoturismo en El Salvador y ha sido un lugar de ocio favorito para los residentes locales y turistas durante mucho tiempo."
+        "content": "El Plaza de Francia es un importante hito de protección natural y ecoturismo en Panamá y ha sido un lugar de ocio favorito para los residentes locales y turistas durante mucho tiempo."
       },
       {
         "id": "nature",
         "title": "Paisaje Natural",
-        "content": "Cuenta con vistas espectaculares de montaña y rica vegetación, siendo un lugar excelente para experimentar la belleza natural de El Salvador."
+        "content": "Cuenta con vistas espectaculares de montaña y rica vegetación, siendo un lugar excelente para experimentar la belleza natural de Panamá."
       },
       {
         "id": "experience",
         "title": "Experiencia de Visita",
-        "content": "Pasear por el Parque Natural Cerro Verde, sentir el fresco clima de montaña y el magnífico paisaje natural, es una experiencia inolvidable de naturaleza."
+        "content": "Pasear por el Plaza de Francia, sentir el fresco clima de montaña y el magnífico paisaje natural, es una experiencia inolvidable de naturaleza."
       }
     ]
   },
@@ -90,9 +95,7 @@
     "address": "Dirección",
     "addressValue": "C. 2a Oeste 85-81, Panamá, Provincia de Panamá, Panamá",
     "plusCode": "Código Plus",
-    "plusCodeValue": "WFX9+W5",
-    "phone": "Teléfono Oficial",
-    "phoneValue": "N/A"
+    "plusCodeValue": "WFX9+W5"
   },
   "hours": {
     "title": "Horarios de Apertura",
@@ -117,25 +120,25 @@
     "students": "Consejos de Transporte",
     "studentsPrice": "Se recomienda usar taxis o transporte público",
     "card": "Consejos de Visita",
-    "cardPrice": "El parque es gratuito y abierto al público. Se recomienda combinar con atracciones cercanas como la Catedral de Alajuela.",
+    "cardPrice": "El parque es gratuito y está abierto al público. Se recomienda combinar su visita con la Catedral Metropolitana de Ciudad de Panamá o la Iglesia de San José (famoso Altar de Oro) en el casco antiguo.",
     "officialNotice": "Para obtener la información más reciente de visita, consulte el",
-    "officialNoticeLinkLabel": "Sitio Oficial del Gobierno Municipal de Alajuela",
-    "officialNoticeLink": "https://www.munialajuela.go.cr/"
+    "officialNoticeLinkLabel": "Sitio Web de Visit Panama (Autoridad Oficial de Turismo de Panamá)",
+    "officialNoticeLink": "https://www.tourismpanama.com/"
   },
   "transport": {
     "title": "Transporte",
     "airport": "Desde el Aeropuerto",
     "airportDesc": "A unos 20 minutos en coche del Aeropuerto Internacional Juan Santamaría (SJO). Se recomienda alquilar un coche o tomar un taxi.",
     "selfDrive": "En Coche",
-    "selfDriveDesc": "Ubicado en el corazón de la ciudad de Alajuela. Simplemente ingrese 'Central Park Alajuela' en la navegación. Hay estacionamientos urbanos disponibles cercanos.",
+    "selfDriveDesc": "Ubicado en el corazón de la ciudad de Casco Antiguo. Simplemente ingrese 'Plaza de Francia' en la navegación. Hay estacionamientos urbanos disponibles cercanos.",
     "bus": "Transporte Público",
-    "busDesc": "Tome los autobuses urbanos de Alajuela hasta el centro de la ciudad, luego camine hasta el parque.",
+    "busDesc": "Las calles del Casco Antiguo en la Ciudad de Panamá son estrechas y el estacionamiento es extremadamente difícil. Se recomienda encarecidamente que los visitantes usen aplicaciones de transporte para llegar al borde del Casco Viejo y luego entren caminando, que es el consejo más auténtico y seguro. También puede tomar el metro de la Ciudad de Panamá a los alrededores.",
     "intercity": "Tour a Pie",
     "intercityDesc": "El parque está ubicado en el centro de la ciudad, caminable desde atracciones cercanas.",
     "cycling": "Otros Medios",
-    "cyclingDesc": "La ciudad de Alajuela tiene transporte conveniente. Hay servicios de taxis o aplicaciones de transporte disponibles.",
+    "cyclingDesc": "La ciudad de Casco Antiguo tiene transporte conveniente. Hay servicios de taxis o aplicaciones de transporte disponibles.",
     "tips": "Consejos de Viaje",
-    "tipsDesc": "El Parque Central de Alajuela es un excelente lugar para experimentar la cultura y el ambiente de ocio de Alajuela. Se recomienda visitar durante el día con luz solar."
+    "tipsDesc": "El Plaza de Francia es un excelente lugar para experimentar la cultura y el ambiente de ocio de Casco Antiguo. Se recomienda visitar durante el día con luz solar."
   },
   "gallery": {
     "title": "Fotos Impresionantes",
@@ -175,13 +178,13 @@
         "name": "Juan Carlos",
         "date": "hace 1 mes",
         "rating": 5,
-        "text": "El corazón de Alajuela. Este parque es hermoso y es un lugar ideal para relajarse y disfrutar del ambiente local."
+        "text": "El corazón del Casco Antiguo. Este parque es hermoso y es un lugar ideal para relajarse y disfrutar del ambiente local."
       },
       {
         "name": "María José",
         "date": "hace 2 semanas",
         "rating": 5,
-        "text": "Hermoso parque con un agradable ambiente. Cerca de la Catedral, es un lugar imprescindible al tour por Alajuela."
+        "text": "Hermoso parque con un agradable ambiente. Cerca de la Catedral, es un lugar imprescindible al tour por el Casco Antiguo."
       },
       {
         "name": "Roberto M.",
@@ -193,19 +196,19 @@
         "name": "Ana Lucía",
         "date": "hace más de 6 meses",
         "rating": 5,
-        "text": "Un lugar icónico en Alajuela. El parque está bien mantenido y es una parte importante de la cultura local."
+        "text": "Un lugar icónico en Casco Antiguo. El parque está bien mantenido y es una parte importante de la cultura local."
       },
       {
         "name": "Carlos A.",
         "date": "hace 1 año",
         "rating": 4,
-        "text": "Excelente lugar para el ocio. Puedes descansar aquí, mirar a la gente pasar, y sentir el ritmo de vida de Alajuela."
+        "text": "Excelente lugar para el ocio. Puedes descansar aquí, mirar a la gente pasar, y sentir el ritmo de vida de Casco Antiguo."
       },
       {
         "name": "Sofía M.",
         "date": "hace más de 6 meses",
         "rating": 5,
-        "text": "Hermoso parque, lleno del encanto de Costa Rica. Una parada importante en tu viaje por Alajuela, definitivamente vale la pena experimentarlo."
+        "text": "Hermoso parque, lleno del encanto de Panama. Una parada importante en tu viaje por Casco Antiguo, definitivamente vale la pena experimentarlo."
       },
       {
         "name": "Miguel R.",
@@ -217,7 +220,7 @@
         "name": "Laura V.",
         "date": "hace 2 meses",
         "rating": 5,
-        "text": "Una gema urbana de Alajuela. El Parque Central es un lugar importante para comprender la cultura de Alajuela, definitivamente vale la pena experimentarlo."
+        "text": "Una gema urbana de Casco Antiguo. El Parque Central es un lugar importante para comprender la cultura de Casco Antiguo, definitivamente vale la pena experimentarlo."
       }
     ]
   },
@@ -351,32 +354,32 @@
     "rejectAll": "Rechazar Todas"
   },
   "officialManagement": {
-    "title": "Sobre Central Park Alajuela",
-    "text": "Central Park Alajuela es una atracción urbana famosa en la provincia de Alajuela, con hermosos paisajes y un rico valor cultural urbano. Es un lugar ideal para que los residentes locales y turistas se relajen y disfruten."
+    "title": "Sobre Plaza de Francia",
+    "text": "Plaza de Francia es una atracción urbana famosa en la provincia de Casco Antiguo, con hermosos paisajes y un rico valor cultural urbano. Es un lugar ideal para que los residentes locales y turistas se relajen y disfruten."
   },
   "historyTimeline": {
     "title": "Cronología Histórica",
     "items": [
       {
-        "year": "Período Inicial",
-        "title": "Período Inicial: Espacio Urbano",
-        "plaque": "Parque Urbano (Espacio Verde)",
-        "description": "Central Park Alajuela ha sido considerado durante mucho tiempo como un importante espacio verde en el corazón de la ciudad de Alajuela y un lugar importante para el ocio y entretenimiento de los residentes locales."
+        "year": "1673",
+        "title": "1673: Fortificaciones Españolas",
+        "plaque": "Malecón Español (Las Bóvedas)",
+        "description": "Los españoles construyeron fortificaciones aquí (el predecesor de Las Bóvedas), que fue una importante línea de defensa para el casco antiguo contra piratas e invasiones extranjeras."
       },
       {
-        "year": "Siglo XX",
-        "title": "Siglo XX: Desarrollo Urbano",
-        "plaque": "Desarrollo Urbano (Construcción del Parque)",
-        "description": "Con la urbanización de Alajuela, Central Park se convirtió gradualmente en un importante espacio público en el centro de la ciudad, con edificios icónicos como la Catedral construidos cercanos."
+        "year": "Década de 1880",
+        "title": "Década de 1880: Proyecto del Canal Francés",
+        "plaque": "Intento del Canal Francés",
+        "description": "Los franceses lanzaron el proyecto del Canal de Panamá. Aunque finalmente no se completó, dejaron valiosa experiencia y lecciones para la ingeniería posterior del canal."
       },
       {
-        "year": "Siglo XXI",
-        "title": "Siglo XXI: Destino Turístico Cultural",
-        "plaque": "Hito Cultural (Desarrollo Turístico)",
-        "description": "En el siglo XXI, con su ubiación geográfica superior y hermoso ambiente, ha atraído a una gran cantidad de turistas y se ha convertido en una importante carta de presentación para el turismo cultural de Alajuela."
+        "year": "Década de 1920",
+        "title": "Década de 1920: Inauguración de la Plaza",
+        "plaque": "Inauguración de la Plaza de Francia",
+        "description": "La plaza fue inaugurada oficialmente para conmemorar a los casi 20,000 trabajadores franceses y caribeños que sacrificaron sus vidas por enfermedades tropicales, así como a los ingenieros y médicos que contribuyeron a la construcción del canal."
       }
     ],
     "guideTitle": "Consejo de Guía para Visitantes",
-    "guideContent": "Al visitar, puede comenzar ingresando por la entrada principal y admirando los espacios de ocio sombreados por árboles verdes; luego visite edificios históricos cercanos como la Catedral de Alajuela; si tiene suficiente tiempo, puede caminar a museos históricos y atracciones culturales cercanas. Finalmente, disfrute de la comida en cafeterías o restaurantes cercanos y sienta el relajado ritmo de vida de Alajuela."
+    "guideContent": "Al visitar, puede comenzar ingresando por la entrada principal y admirando los espacios de ocio sombreados por árboles verdes; luego visite edificios históricos cercanos como la Catedral Metropolitana / Iglesia San José; si tiene suficiente tiempo, puede caminar a museos históricos y atracciones culturales cercanas. Finalmente, disfrute de la comida en cafeterías o restaurantes cercanos y sienta el relajado ritmo de vida de Casco Antiguo."
   }
 }

@@ -16,11 +16,16 @@
     "rating": "4.6",
     "reviewCount": "8,736",
     "hours": "旅游胜地",
-    "openMaps": "查看位置"
+    "openMaps": "查看位置",
+    "badges": [
+      "📍 UNESCO 世界遗产区域",
+      "🌊 最佳海景打卡点",
+      "🎟️ 免费景点"
+    ]
   },
   "intro": {
     "title": "探索 Plaza de Francia",
-    "description": "Plaza de Francia（法国广场）位于巴拿马城老城区（Casco Antiguo），是一个历史悠久的旅游胜地。广场纪念法国在巴拿马运河建设中的贡献，拥有丰富的文化遗产和壮丽的景观，是体验巴拿马历史文化的重要场所。",
+    "description": "位于巴拿马城老城区 (Casco Antiguo) 最南端的 Plaza de Francia，是一处将沉重历史与极致美景完美融合的地标。广场中心的方尖碑顶端矗立着一只高卢雄鸡，周围环绕着大理石半身像与纪念碑文，庄严地纪念着在 19 世纪末为开凿巴拿马运河而牺牲的数万名法国工程师与劳工，以及为攻克黄热病做出杰出贡献的科学家。\n\n如今，这里是老城区最受欢迎的休闲胜地。广场外围依附着古老的西班牙海堤防御工事（Las Bóvedas）。漫步于绿树成荫的海滨步道上，你不仅能欣赏当地原住民售卖的精美手工艺品，更隔着湛蓝的巴拿马湾，将阿马多尔长堤与巴拿马城极其震撼的现代化摩天大楼天际线尽收眼底。在这里，几个世纪的历史沧桑与现代都会的繁华仅有一海之隔。",
     "visitGuide": {
       "title": "游览建议",
       "items": [
@@ -33,10 +38,10 @@
     "alsoKnownAs": {
       "title": "核心亮点",
       "items": [
-        "丰富的历史文化：广场纪念法国在巴拿马运河建设中的贡献，具有重要的历史意义。",
-        "优越的地理位置：位于老城区中心，周边环绕着殖民时期的精美建筑。",
-        "美丽的景观：广场是拍摄巴拿马城老城区美景的理想地点。",
-        "靠近旅游景点：距离老城区其他历史景点和餐厅仅几步之遥。"
+        "海滨步道与穹顶（Las Bóvedas）：法国广场并非只是一个平面的广场，它的外围是一段古老的西班牙防御海堤，下方有著名的“穹顶”（曾经的监狱和仓库）。游客可以沿着海堤步道漫步，这是该景点最大的卖点之一。",
+        "绝佳的城市天际线视角：站在法国广场的海堤上，可以隔着巴拿马湾无死角眺望巴拿马城现代化的摩天大楼天际线、阿马多尔长堤 (Amador Causeway) 以及美洲大桥 (Bridge of the Americas)。",
+        "纪念碑细节：广场中心不仅是“纪念碑”，顶端还有一只代表法国的高卢雄鸡 (Gallic Rooster)，周围还有纪念在黄热病和疟疾中牺牲的工人和医生的雕塑（如古巴医生卡洛斯·芬莱）。",
+        "优越的地理位置：位于老城区中心，周边环绕着殖民时期的精美建筑。"
       ]
     }
   },
@@ -90,9 +95,7 @@
     "address": "地址",
     "addressValue": "C. 2a Oeste 85-81, Panamá, Provincia de Panamá, 巴拿马",
     "plusCode": "Plus 代码",
-    "plusCodeValue": "WFX9+W5",
-    "phone": "官方电话",
-    "phoneValue": "无"
+    "plusCodeValue": "WFX9+W5"
   },
   "hours": {
     "title": "开放时间",
@@ -117,10 +120,10 @@
     "students": "交通建议",
     "studentsPrice": "建议使用出租车或公共交通前往",
     "card": "游览建议",
-    "cardPrice": "公园免费开放，无需门票。建议结合参观周边的阿拉胡埃拉大教堂等景点。",
+    "cardPrice": "公园免费开放，无需门票。建议结合参观老城区的 巴拿马城大都会教堂 (Catedral Metropolitana) 或 圣何塞教堂 (Iglesia San José - 著名的黄金祭坛)。",
     "officialNotice": "关于最新的游览信息，请查阅",
-    "officialNoticeLinkLabel": "阿拉胡埃拉市政府官方网站",
-    "officialNoticeLink": "https://www.munialajuela.go.cr/"
+    "officialNoticeLinkLabel": "Visit Panama（巴拿马官方旅游局）网站",
+    "officialNoticeLink": "https://www.tourismpanama.com/"
   },
   "transport": {
     "title": "交通方式",
@@ -129,7 +132,7 @@
     "selfDrive": "自驾前往",
     "selfDriveDesc": "广场位于巴拿马城老城区（Casco Antiguo），导航输入\"Plaza de Francia\"即可，周边有市区停车场。",
     "bus": "公共交通",
-    "busDesc": "可乘坐巴拿马城地铁或公交车到达老城区，步行即可到达广场。",
+    "busDesc": "巴拿马城老城区街道狭窄且停车极难。建议游客使用打车软件到达 Casco Viejo 的边缘，然后步行进入，这是最地道且安全的防坑建议。当然也可乘坐巴拿马城地铁到达周边。",
     "intercity": "步行游览",
     "intercityDesc": "广场位于老城区中心，从周边景点步行即可到达。",
     "cycling": "其他方式",
@@ -358,22 +361,22 @@
     "title": "历史变迁时间线",
     "items": [
       {
-        "year": "17世纪",
-        "title": "17世纪：殖民时期",
-        "plaque": "殖民建筑（历史遗址）",
-        "description": "Plaza de Francia 所在的区域是巴拿马城老城区（Casco Antiguo）的一部分，建于1673年，是联合国教科文组织世界遗产地。"
+        "year": "1673年",
+        "title": "1673年：西班牙防御工事",
+        "plaque": "西班牙海堤（Las Bóvedas）",
+        "description": "西班牙人在此建立防御工事（Las Bóvedas 的前身），这是老城区抵御海盗和外敌入侵的重要防线。"
       },
       {
-        "year": "19世纪",
-        "title": "19世纪：法国运河时期",
-        "plaque": "法国贡献（运河建设）",
-        "description": "广场纪念法国在巴拿马运河建设中的贡献。法国人曾尝试修建巴拿马运河，虽未成功，但为后来的美国工程奠定了基础。"
+        "year": "1880年代",
+        "title": "1880年代：法国运河计划",
+        "plaque": "法国运河尝试",
+        "description": "法国人启动巴拿马运河计划。虽然最终未能完成，但他们为后来的运河工程留下了宝贵的经验与教训。"
       },
       {
-        "year": "21世纪",
-        "title": "21世纪：文化旅游胜地",
-        "plaque": "文化标识（旅游发展）",
-        "description": "如今，Plaza de Francia 已成为巴拿马城老城区的重要旅游景点，吸引着来自世界各地的游客前来参观。"
+        "year": "1920年代",
+        "title": "1920年代：广场落成",
+        "plaque": "法国广场落成",
+        "description": "广场正式落成，纪念因热带疾病牺牲的近两万名法国和加勒比海劳工，以及为修建运河做出贡献的工程师和医生。"
       }
     ],
     "guideTitle": "游客导览建议",

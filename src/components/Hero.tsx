@@ -1,7 +1,9 @@
-import { useTranslations } from 'next-intl';
+import { useTranslations, useMessages } from 'next-intl';
 
 export default function Hero() {
   const t = useTranslations('hero');
+  const messages = useMessages() as any;
+  const badges: string[] = messages?.hero?.badges || [];
   const mapsUrl = "https://maps.app.goo.gl/ty2EReDUHkHxLERm9";
 
   return (
@@ -9,7 +11,7 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/plaza-de-francia-1.jpg"
+          src="/gallery/plaza-de-francia-11.jpg"
           alt="Plaza de Francia"
           className="w-full h-full object-cover"
         />
@@ -22,6 +24,18 @@ export default function Hero() {
           <h1 className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white leading-tight mb-4 animate-fade-in-up">
             {t('title')}
           </h1>
+          
+          {/* Badges */}
+          {badges && badges.length > 0 && (
+            <div className="flex flex-wrap gap-2 mb-4 animate-fade-in-up animation-delay-100">
+              {badges.map((badge, i) => (
+                <span key={i} className="bg-white/20 backdrop-blur-md text-white text-xs sm:text-sm px-3 py-1.5 rounded-full font-medium border border-white/30 shadow-sm">
+                  {badge}
+                </span>
+              ))}
+            </div>
+          )}
+
           <p className="text-lg sm:text-xl text-white/80 mb-8 animate-fade-in-up animation-delay-100 font-light">
             {t('subtitle')}
           </p>
