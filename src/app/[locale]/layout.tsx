@@ -15,7 +15,8 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://plazadefranciapanama.com';
+  const domain = process.env.CURRENT_SITE_DOMAIN || 'www.plazadefranciapanama.com';
+  const baseUrl = `https://${domain}`;
 
   const zhUrl = `${baseUrl}/zh`;
   const enUrl = `${baseUrl}/en`;

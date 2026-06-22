@@ -128,7 +128,7 @@
   "transport": {
     "title": "Transporte",
     "airport": "Desde el Aeropuerto",
-    "airportDesc": "A unos 20 minutos en coche del Aeropuerto Internacional Juan Santamaría (SJO). Se recomienda alquilar un coche o tomar un taxi.",
+    "airportDesc": "A unos 30 minutos en coche del Aeropuerto Internacional de Tocumen (PTY). Se recomienda alquilar un coche, tomar un taxi o usar el metro hacia el casco antiguo.",
     "selfDrive": "En Coche",
     "selfDriveDesc": "Ubicado en el corazón de la ciudad de Casco Antiguo. Simplemente ingrese 'Plaza de Francia' en la navegación. Hay estacionamientos urbanos disponibles cercanos.",
     "bus": "Transporte Público",
@@ -178,25 +178,25 @@
         "name": "Juan Carlos",
         "date": "hace 1 mes",
         "rating": 5,
-        "text": "El corazón del Casco Antiguo. Este parque es hermoso y es un lugar ideal para relajarse y disfrutar del ambiente local."
+        "text": "El corazón del Casco Antiguo. Esta plaza es hermosa y es un lugar ideal para relajarse y disfrutar del ambiente local."
       },
       {
         "name": "María José",
         "date": "hace 2 semanas",
         "rating": 5,
-        "text": "Hermoso parque con un agradable ambiente. Cerca de la Catedral, es un lugar imprescindible al tour por el Casco Antiguo."
+        "text": "Hermosa plaza con un agradable ambiente. Cerca de la Catedral, es un lugar imprescindible al tour por el Casco Antiguo."
       },
       {
         "name": "Roberto M.",
         "date": "hace 3 meses",
         "rating": 4,
-        "text": "Muy buen parque urbano. Adecuado para caminar y relajarse, con muchas tiendas y restaurantes cercanos, muy conveniente."
+        "text": "Muy buena plaza urbana. Adecuada para caminar y relajarse, con muchas tiendas y restaurantes cercanos, muy conveniente."
       },
       {
         "name": "Ana Lucía",
         "date": "hace más de 6 meses",
         "rating": 5,
-        "text": "Un lugar icónico en Casco Antiguo. El parque está bien mantenido y es una parte importante de la cultura local."
+        "text": "Un lugar icónico en Casco Antiguo. La plaza está bien mantenida y es una parte importante de la cultura local."
       },
       {
         "name": "Carlos A.",
@@ -208,19 +208,19 @@
         "name": "Sofía M.",
         "date": "hace más de 6 meses",
         "rating": 5,
-        "text": "Hermoso parque, lleno del encanto de Panama. Una parada importante en tu viaje por Casco Antiguo, definitivamente vale la pena experimentarlo."
+        "text": "Hermosa plaza, llena del encanto de Panamá. Una parada importante en tu viaje por Casco Antiguo, definitivamente vale la pena experimentarla."
       },
       {
         "name": "Miguel R.",
         "date": "hace 2 meses",
         "rating": 4,
-        "text": "Interesante parque urbano. Puedes experimentar la cultura local de cerca. Se recomiendan las visitas diurnas cuando el ambiente es mejor."
+        "text": "Interesante plaza urbana. Puedes experimentar la cultura local de cerca. Se recomiendan las visitas diurnas cuando el ambiente es mejor."
       },
       {
         "name": "Laura V.",
         "date": "hace 2 meses",
         "rating": 5,
-        "text": "Una gema urbana de Casco Antiguo. El Parque Central es un lugar importante para comprender la cultura de Casco Antiguo, definitivamente vale la pena experimentarlo."
+        "text": "Una gema urbana de Casco Antiguo. La Plaza de Francia es un lugar importante para comprender la cultura de Casco Antiguo, definitivamente vale la pena experimentarlo."
       }
     ]
   },

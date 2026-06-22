@@ -3,7 +3,8 @@ import { MetadataRoute } from 'next';
 export const dynamic = 'force-static';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://plazadefranciapanama.com';
+  const domain = process.env.CURRENT_SITE_DOMAIN || 'www.plazadefranciapanama.com';
+  const baseUrl = `https://${domain}`;
   const locales = ['zh', 'en', 'es'];
   const routes = ['', '/privacy-policy', '/terms-of-service', '/cookie-settings'];
 
