@@ -1,5 +1,7 @@
 import { MetadataRoute } from 'next';
 
+export const dynamic = 'force-static';
+
 export default function robots(): MetadataRoute.Robots {
   const domain = process.env.CURRENT_SITE_DOMAIN || 'www.plazadefranciapanama.com';
   const baseUrl = `https://${domain}`;
